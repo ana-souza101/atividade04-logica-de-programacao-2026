@@ -71,7 +71,7 @@ Ao final, o programa deverá apresentar:
 * Quantidade de estudantes com nota maior ou igual a `7`.
 * Quantidade de estudantes com nota menor que `7`.
 
-Considere notas válidas entre `0` e `10`.
+Considere notas válidas entre `0` e `10`. // opcional
 
 Caso seja informada uma nota inválida, solicite a nota novamente.
 
